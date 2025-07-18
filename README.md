@@ -1,41 +1,40 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
-    
+<h1 align="center">Hola, soy <a href="https://github.com/KenithDev">Wilden Kenith</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/KenithDev/KenithDev/blob/main/profile.png" alt="Dev Avatar">
 </p>
 
 <div>
-<strong>About Me:</strong><br>
-💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
-📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
-📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
-🏆 My certifications: 
-<ul>
-  <li>SOA: Exam FM, Exam P</li>
-  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
-  <li>Coursera: SAS Visual Business Analytics</li>
-  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
-</ul>
-📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
+<strong>Sobre mí:</strong><br>
+👨‍💻 Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo web<br>
+🧠 Enfocado en el desarrollo Front-end con tecnologías modernas<br>
+🎯 Experiencia en proyectos académicos y personales usando React, TypeScript y Tailwind CSS<br>
+📚 Actualmente profundizando en arquitectura limpia y desarrollo full stack con Node.js<br>
+🌐 Me interesa la creación de productos digitales funcionales y atractivos<br><br>
 
-<strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
+<strong>📫 Contáctame:</strong><br>
+✉️ Email: <a href="mailto:kenith.dev@gmail.com">kenith.dev@gmail.com</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/wilden-kenith/">Wilden Kenith</a><br><br>
 
-<strong>💡 My Languages :</strong><br><br>
-<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
-<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+<strong>📊 Estadísticas de GitHub:</strong><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KenithDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Kenith GitHub stats"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenithDev&theme=radical&hide_border=true" alt="Kenith GitHub streak"/><br><br>
 
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+<strong>💡 Lenguajes y herramientas:</strong><br><br>
+<img src="https://img.shields.io/badge/-HTML5-orange?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS3-blue?style=plastic"/>
+<img src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic"/>
+<img src="https://img.shields.io/badge/-TypeScript-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-React-black?style=plastic"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-teal?style=plastic"/>
+<img src="https://img.shields.io/badge/-Node.js-green?style=plastic"/>
+<img src="https://img.shields.io/badge/-Git-orange?style=plastic"/>
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenithDev&theme=radical&card_width=445)
 </div>
 
 ------
-Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
-Last Edited on: 15/4/2021
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Última edición: Julio 2025  
+> Crédito: Adaptado desde el perfil de [Kathryn-Jie](https://github.com/Kathryn-Jie)
