@@ -1,17 +1,41 @@
-# 👋 About Me:
-Desarrollador de software apasionado por el desarrollo web . Con experiencia en la creación de soluciones innovadoras y eficientes, busco constantemente mejorar y aprender nuevas tecnologías para aplicar en mis proyectos. 
+# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+    
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KenithDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KenithDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KenithDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+<strong>About Me:</strong><br>
+💻 I’m currently working as an intern at Nicholas Actuarial Solutions<br>
+📚 I’m a final year Actuarial Science undergraduate in University of Malaya<br>
+📈 I experienced in Actuarial Statistics, Data Analysis, Data Visualization and Forecasting<br>
+🏆 My certifications: 
+<ul>
+  <li>SOA: Exam FM, Exam P</li>
+  <li>ICDL: Cloud Computing, Digital Marketing, Spreadsheets, Presentation and Online Collaboration</li>
+  <li>Coursera: SAS Visual Business Analytics</li>
+  <li>DataCamp: Shiny Fundamentals, Statistics Fundamentas and Spreadsheet Fundamentals with R Track</li>
+</ul>
+📫 Reach me at <a href="mailto:yijie0575@gmail.com">yijie0575@gmail.com</a><br>
+😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KenithDebv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<strong>📊 My Github Stats :</strong><br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kathryn-Jie&theme=radical&hide_border=true"/><br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=KenithDevP&icon=0&color=0)](https://visitcount.itsvg.in)
+<strong>💡 My Languages :</strong><br><br>
+<img src="https://img.shields.io/badge/-R-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-HTML-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
+<img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kathryn-Jie&langs_count_private=true&theme=radical&card_width=445)<br><br>
+
+<strong>🚀 My Latest Update :</strong><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kathryn-Jie&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+</div>
+
+------
+Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
+Last Edited on: 15/4/2021
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
