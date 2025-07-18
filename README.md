@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="https://github.com/KenithDev">Wilden Kenith</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
 <p align="center">
-    <img width="200" src="https://github.com/KenithDev/KenithDev/blob/main/profile.png" alt="Dev Avatar">
+    <img width="200" src="Kenith.jpg" alt="Dev Avatar">
 </p>
 
 <div>
