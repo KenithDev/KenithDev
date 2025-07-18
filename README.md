@@ -17,7 +17,7 @@
 💼 LinkedIn: <a href="https://www.linkedin.com/in/kenith-guanilo-pizarro-1147ab2ab/">Kenith Guanilo</a><br><br>
 
 <strong>📊 Estadísticas de GitHub:</strong><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KenithDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Kenith GitHub stats"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KenithDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Kenith GitHub stats"/><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KenithDev&theme=radical&hide_border=true" alt="Kenith GitHub streak"/><br><br>
 
 <strong>💡 Lenguajes que uso:</strong><br><br>
