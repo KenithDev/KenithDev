@@ -13,8 +13,8 @@
 🌐 Me interesa la creación de productos digitales funcionales y atractivos<br><br>
 
 <strong>📫 Contáctame:</strong><br>
-✉️ Email: <a href="mailto:kenith.dev@gmail.com">kenith.dev@gmail.com</a><br>
-💼 LinkedIn: <a href="https://www.linkedin.com/in/wilden-kenith/">Wilden Kenith</a><br><br>
+✉️ Email: <a href="mailto:kenithguanilo@gmail.com">kenith.dev@gmail.com</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/kenith-guanilo-pizarro-1147ab2ab/">Wilden Kenith</a><br><br>
 
 <strong>📊 Estadísticas de GitHub:</strong><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=KenithDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Kenith GitHub stats"/><br>
@@ -34,7 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenithDev&theme=radical&card_width=445)
 </div>
 
-------
 
-> Última edición: Julio 2025  
-> Crédito: Adaptado desde el perfil de [Kathryn-Jie](https://github.com/Kathryn-Jie)
