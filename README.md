@@ -16,24 +16,28 @@
 ✉️ Email: <a href="mailto:kenithguanilo@gmail.com">kenithguanilo@gmail.com</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/kenith-guanilo-pizarro-1147ab2ab/">Kenith Guanilo</a><br><br>
 
-<strong>📊 Estadísticas de GitHub:</strong><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KenithDev&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Kenith GitHub stats"/><br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KenithDev&theme=radical&hide_border=true" alt="Kenith GitHub streak"/><br><br>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,nestjs,angular,nodejs,express,mysql,php,laravel,py,discordjs,bots,c,prisma,django,flutter,docker,vite,git,github&perline=14" />
+  </a>
+</p>
 
-<strong>💡 Lenguajes que uso:</strong><br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenithDev&layout=compact&theme=radical)
-
-<strong>🔧 Herramientas que manejo:</strong><br><br>
-
-<img src="https://img.shields.io/badge/-HTML5-orange?style=plastic"/>
-<img src="https://img.shields.io/badge/-CSS3-blue?style=plastic"/>
-<img src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic"/>
-<img src="https://img.shields.io/badge/-React-black?style=plastic"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-teal?style=plastic"/>
-<img src="https://img.shields.io/badge/-Node.js-green?style=plastic"/>
-<img src="https://img.shields.io/badge/-Git-orange?style=plastic"/>
-
-</div>
+<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)-->
 
 
